@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.todos-container {
+  height: 100vh;
+  background-color: white;
+  margin: 50px;
+  padding: 40px;
+  text-align: center;
+}
